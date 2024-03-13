@@ -58,3 +58,15 @@ Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2
 
 # Jawaban pertanyaan
 Terlalu banyak tingkat nesting dalam routing dapat membingungkan bagi pengguna dan mengurangi pengalaman pengguna yang optimal
+
+## Praktikum 3
+
+Product
+![Screenshot](asset/07.png)
+
+Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
+![Screenshot](asset/08.png)
+
+Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
+
+![Screenshot](asset/09.png)
