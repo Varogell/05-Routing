@@ -40,4 +40,21 @@ About
 Todo: Buatlah halaman /profile yang menampilkan isi biodata anda dengan menggunakan routing di NextJS
 
 Profile
-![Screenshot](asset/02.png)
+![Screenshot](asset/03.png)
+
+## Praktikum 2
+
+Blog
+![Screenshot](asset/04.png)
+
+First Blog 
+![Screenshot](asset/05.png)
+
+Second Blog 
+![Screenshot](asset/06.png)
+
+# Pertanyaan 
+Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
+
+# Jawaban pertanyaan
+Terlalu banyak tingkat nesting dalam routing dapat membingungkan bagi pengguna dan mengurangi pengalaman pengguna yang optimal
