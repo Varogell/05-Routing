@@ -32,25 +32,31 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ### Praktikum 1
 
 Home
+
 ![Screenshot](asset/01.png)
 
 About
+
 ![Screenshot](asset/02.png)
 
 Todo: Buatlah halaman /profile yang menampilkan isi biodata anda dengan menggunakan routing di NextJS
 
 Profile
+
 ![Screenshot](asset/03.png)
 
 ## Praktikum 2
 
 Blog
+
 ![Screenshot](asset/04.png)
 
 First Blog 
+
 ![Screenshot](asset/05.png)
 
 Second Blog 
+
 ![Screenshot](asset/06.png)
 
 # Pertanyaan 
@@ -62,9 +68,11 @@ Terlalu banyak tingkat nesting dalam routing dapat membingungkan bagi pengguna d
 ## Praktikum 3
 
 Product
+
 ![Screenshot](asset/07.png)
 
 Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
+
 ![Screenshot](asset/08.png)
 
 Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
